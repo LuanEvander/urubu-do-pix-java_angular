@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-UrupixappApplication<urupixapp>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.biz.urupix.urupixapp.UrupixappApplication",
+            "projectName": "urupixapp",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
